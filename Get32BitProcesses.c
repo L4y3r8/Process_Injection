@@ -3,8 +3,7 @@
 #define _WIN32_WINNT 0x0501
 
 // INDIRECT WinAPI CALL version with LoadLibrary
-/* Receive and inject shellcode from C&C into random 32-bit process
-
+/*
     typedef struct tagPROCESSENTRY32 {
 	    DWORD     dwSize;
 	    DWORD     cntUsage;
