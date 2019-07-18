@@ -36,7 +36,7 @@
 #include <stdio.h>
 #include <tlhelp32.h>
 
-//for later Usage
+//for later usage
 #pragma comment (lib, "Ws2_32.lib")
 #pragma comment (lib, "Mswsock.lib")
 #pragma comment (lib, "AdvApi32.lib")
