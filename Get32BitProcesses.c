@@ -2,7 +2,7 @@
 
 #define _WIN32_WINNT 0x0501
 
-// INDIRECT WinAPI CALL version with LoadLibrary
+// indirect WinAPI CALL version with LoadLibrary
 /*
     typedef struct tagPROCESSENTRY32 {
 	    DWORD     dwSize;
